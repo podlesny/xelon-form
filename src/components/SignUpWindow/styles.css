@@ -1,0 +1,24 @@
+.sign-up-window{
+    position: absolute;
+    background-color: #ffffff;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding: 40px 20px 20px;
+    border-radius: 5px;
+    width: 25%;
+}
+
+.modal-bold-header {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+}
+
+.modal-content{
+    width: 100%;
+}
